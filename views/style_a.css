@@ -1,0 +1,105 @@
+/*
+@author Name: md Naim Mizi
+@Edit Last Date: 23/12/2022
+@Driscriptions: This Our Frist Realese Project, Developing style very awsome 
+@Poware By: Dev Shark
+*/
+
+
+
+
+
+
+/* color class for styling speed up start*/
+
+.color-white{
+    color: #fff;
+}
+.color-black{
+    color: #000;
+}
+.color-primary{
+    color: #04b8ff;
+}
+.color-pink{
+    color: rgb(255, 0, 64);
+    
+}
+.sevillana{
+    font-family: 'Sevillana', cursive;
+}
+.weigth-600{
+  font-weight: 600;
+}
+
+
+/* color class for styling speed up end */
+
+
+/* baground color class for styling speed up start */
+.bg-cl-black{
+    background: #000;
+}
+.bg-cl-white{
+    background: #ffffff;
+}
+.bg-cl-primary{
+    background: #04b8ff;
+}
+/* baground color class for styling speed up end */
+
+
+
+/* Font fmaly class code start for styling speed  */
+
+.helvetica{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+/* Font fmaly class code ending for styling speed  */
+
+
+/* font wigth and size code start */
+.font-l-bold{
+    font-weight: 700;
+}
+
+.font-l-size{
+    font-size: 25px;
+}
+/* font wigth and size code end */
+
+
+/* padding start*/
+.padding-0{
+    padding: 0;
+}
+/* padding end */
+a{
+    text-decoration: none;
+}
+
+
+
+
+.imagesWidth{
+    width: 100%;
+}
+
+.w-70{
+    width: 70%;
+}
+
+
+
+.rul:active{
+    outline: none;
+}
+/* Saparate codes */
+/* .navbar-nav .nav-link.active.color-white{
+    color: #fff;
+} */
+
